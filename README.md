@@ -26,3 +26,5 @@ Simple app to enter number and redirect to whatsapp directly without saving the 
 <img src="https://github.com/yashas-hm/Direct-Message/blob/master/images/IOS/5.png" width=200/>
 <img src="https://github.com/yashas-hm/Direct-Message/blob/master/images/IOS/6.png" width=200/>
 </p>
+
+## Author: [yashas-hm](https://github.com/yashas-hm)
